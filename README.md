@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tk-ozawa&count_private=true&show_icons=true&theme=algolia" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tk-ozawa&theme=algolia&count_private=true&show_icons=true&show_icons=true&theme=onedark"/>
-  </a>
+<p align="left"> 
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tk-ozawa&count_private=true&show_icons=true&show_icons=true&theme=algolia" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tk-ozawa&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=algolia" />
 </p>
-
 
 ### Development Environment
