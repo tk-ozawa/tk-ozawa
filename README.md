@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Ozawa's github stats](https://github-readme-stats.vercel.app/api?username=tk-ozawa&count_private=true&show_icons=true&theme=algolia)
-
 ![Ozawa's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tk-ozawa&theme=algolia)
