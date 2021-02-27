@@ -7,7 +7,19 @@
 
 #### Development Environment
 
-- Editor: VSCode
-- PC: MacBook Pro
-- Keyboard: HHKB HYBRID Type-S
-- Mouse: Magic TrackPad 2, MX ERGO
+```json
+{
+  "DevelopEnviroment": {
+    "Editor": ["VSCode for Mac"],
+    "PC": ["MacBook Pro"],
+    "KeyBoard": [
+      "HHKB HYBRID Type-S",
+      "Choco60"
+    ],
+    "Mouse": [
+      "Magic TrackPad 2",
+      "MX ERGO"
+    ]
+  }
+}
+```
