@@ -10,16 +10,10 @@
 ```json
 {
   "DevelopEnviroment": {
-    "Editor": ["VSCode for Mac"],
+    "Editor": ["VSCode"],
     "PC": ["MacBook Pro"],
-    "KeyBoard": [
-      "HHKB HYBRID Type-S",
-      "Choco60"
-    ],
-    "Mouse": [
-      "Magic TrackPad 2",
-      "MX ERGO"
-    ]
+    "KeyBoard": ["Choco60"],
+    "Mouse": ["Magic TrackPad 2"]
   }
 }
 ```
