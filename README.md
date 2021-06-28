@@ -1,4 +1,4 @@
-### 👋Hi! I'm tk-ozawa
+### 👋Hi! I'm shzawa
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tk-ozawa&count_private=true&show_icons=true&show_icons=true&theme=algolia" />
